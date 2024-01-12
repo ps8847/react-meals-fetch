@@ -15,9 +15,9 @@ A simple React application that uses Axios to fetch seafood recipes from "The Me
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/ps8847/react-meals-fetch.git
-   ```
+```bash
+git clone https://github.com/ps8847/react-meals-fetch.git
+```
 
 2. Navigate to the project directory:
 
